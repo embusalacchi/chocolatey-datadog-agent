@@ -1,0 +1,6 @@
+# Don't include the actual installer.
+*.exe
+*.msi
+*.msu
+*.zip
+
