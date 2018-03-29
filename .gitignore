@@ -4,3 +4,6 @@
 *.msu
 *.zip
 
+# mac stuff
+.DS_Store
+
